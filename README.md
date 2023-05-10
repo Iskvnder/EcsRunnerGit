@@ -54,7 +54,7 @@ they can easily do so without disturbing the style of the game.
 # Instructions for installing and running the project
 1. Install Unity 2021.3.19f1
 2. Download the project as a ZIP file 
-3. open it in the Unity editor
+3. Open it in the Unity editor
 
 ! To try the game on your mobile device
 1. Open Build Settings in the editor
