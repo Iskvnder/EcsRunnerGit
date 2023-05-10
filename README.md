@@ -15,14 +15,20 @@ The project consists of the following components:
 
 #  Core gameplay (Abdulla's responsibility):
 The gameplay consists in the fact that the platform on which the player moves has several faces (this version has 4 faces, but can be changed in configuration up to 12, however there are no corresponding prefabs). The player can rotate the platform and change its location on the faces. Obstacles are generated on the platform. If player moves to platform which already has an obstacle, he will legally fall down, if player hits an obstacle, he will trample on place.
+
+
 ![image](https://github.com/Iskvnder/EcsRunnerGit/assets/100485088/d60702fe-762d-43c7-9945-d0c35eb349d3)
 
-# UI/UX и Art Design (ответственность моего):
+# UI/UX и Art Design:
 
 The design for our game is intuitive, simple and uncluttered.
 The main design elements are done in bright colours with the use of pictures
 or gradients.
+
+
 ![image](https://github.com/Iskvnder/EcsRunnerGit/assets/100485088/1326dca7-3eb2-4a23-9701-77ce8c7ed3c0)
+
+
 Cartoonish design was chosen because it covers the basic needs of the visual
 style of the game:
 1. Appealing to a wide audience: Cartoonish design is great for casual games
@@ -41,6 +47,7 @@ help make the game more accessible and enjoyable for players.
 5. Easy to modify: Cartoonish design is easily modifiable and scalable. If
 developers want to change the design of characters, objects or backgrounds,
 they can easily do so without disturbing the style of the game.
+
 ![image](https://github.com/Iskvnder/EcsRunnerGit/assets/100485088/b51296ec-2110-4d2c-b283-691b2d0dc1f0)
 
 
