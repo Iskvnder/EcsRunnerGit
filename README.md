@@ -1,11 +1,11 @@
 # EcsRunnerGit
 
-# Описание
-Проект является игрой HowRunner. В данном файле мы предоставляем информацию о проекте, его структуре и принятых решениях.
+# Description
+The project is a game of HowRunner. In this file we provide information about the project, its structure and decisions made.
 
-# История проекта
-В начале разработки мы использовали другой репозиторий с начальным проектом и планировали использовать Git Flow для организации работы над проектом. Однако, на основе нашего опыта работы над предыдущими проектами, мы столкнулись с проблемами, связанными с потерей проекта в результате некорректного использования Git Flow.
+# Project history
+At the beginning of the development we used another repository with the initial project and planned to use Git Flow to organize the work on the project. However, based on our experience working on previous projects, we encountered problems with losing the project as a result of not using Git Flow correctly.
 
-Исходя из этого опыта, мы приняли решение изменить подход к разработке проекта. Вместо полного использования Git Flow, мы решили разделить ответственности между участниками команды для более эффективной работы. Абдулла фокусируется на разработке и улучшении основного геймплея (кор геймплея) и переходу на новую архитектуру. В то же время, я отвечаю за разработку пользовательского интерфейса (UI/UX) и визуального дизайна игры (Art Design).
+Based on this experience, we decided to change our approach to project development. Instead of using Git Flow entirely, we decided to divide responsibilities among team members to work more efficiently. Abdullah focuses on developing and improving the core gameplay (cor gameplay) and transitioning to the new architecture. At the same time, I am responsible for the user interface development (UI/UX) and the visual design of the game (Art Design).
 
-Такое решение было принято с целью повышения эффективности работы каждого члена команды. Оно позволяет нам сосредоточиться на своих областях экспертизы и быстрее достигать промежуточных результатов. Кроме того, это позволяет нам легче отслеживать изменения и объединять наши работы в конечном результате.
+This decision was made in order to increase the efficiency of each team member. It allows us to focus on our areas of expertise and achieve intermediate results faster. It also allows us to track changes more easily and combine our work into the final result.
